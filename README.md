@@ -74,3 +74,4 @@ Z technického hlediska je profesionální vesta **STATSports Apex** přesnějš
 * Snímaná data: Vlastní měření (Apple Watch Series, STATSports Apex)
 * Teorie mikrokontrolérů: Dokumentace architektur ARM Cortex-M
 * Software: Apple Fitness+, STATSports Apex App
+
