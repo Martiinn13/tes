@@ -54,9 +54,11 @@ Apple Watch zaznamenaly průměrný tep **172 BPM**, přičemž většinu času 
 
 ### Apple Watch - Aplikace Kondice
 Snímky ukazují detailní rozbor tepu a mapu trasy v okolí Solnice.
-![Apple Watch Summary](images/apple_1.png)
-![Apple Watch Heart Rate](images/apple_3.png)
-![Route Map](images/apple_2.png)
+<img width="750" height="1208" alt="image" src="https://github.com/user-attachments/assets/3ec0318b-7c3f-4e37-b16c-f02c37f793ab" />
+<img width="750" height="1334" alt="image" src="https://github.com/user-attachments/assets/f8a0170a-b061-4bfd-8b96-b6f414fef1b3" />
+<img width="750" height="1281" alt="image" src="https://github.com/user-attachments/assets/4e437de0-2239-4bdc-8445-d3432c04f9a2" />
+<img width="750" height="1334" alt="image" src="https://github.com/user-attachments/assets/0ea3628f-247d-4acd-b231-4bcb73fe7730" />
+
 
 ### STATSports Apex - Profesionální analýza
 Snímky ukazují srovnání s profesionálními fotbalisty a analýzu rychlostních limitů.
