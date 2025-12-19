@@ -62,8 +62,10 @@ Snímky ukazují detailní rozbor tepu a mapu trasy v okolí Solnice.
 
 ### STATSports Apex - Profesionální analýza
 Snímky ukazují srovnání s profesionálními fotbalisty a analýzu rychlostních limitů.
-![STATSports Summary](images/stats_1.png)
-![Max Speed Analysis](images/stats_2.png)
+<img width="563" height="608" alt="image" src="https://github.com/user-attachments/assets/1fde11ad-8838-41f4-98fb-a3f0e415ace7" />
+
+<img width="562" height="1218" alt="image" src="https://github.com/user-attachments/assets/4be62176-cdae-4bf6-9690-73dd470cc5bc" />
+
 
 ---
 
